@@ -1,0 +1,10 @@
+C:\Users\lanaa\source\repos\StopWatchApp\StopWatchApp\obj\Debug\StopWatchApp.csproj.AssemblyReference.cache
+C:\Users\lanaa\source\repos\StopWatchApp\StopWatchApp\obj\Debug\StopWatchApp.Form1.resources
+C:\Users\lanaa\source\repos\StopWatchApp\StopWatchApp\obj\Debug\StopWatchApp.Properties.Resources.resources
+C:\Users\lanaa\source\repos\StopWatchApp\StopWatchApp\obj\Debug\StopWatchApp.csproj.GenerateResource.cache
+C:\Users\lanaa\source\repos\StopWatchApp\StopWatchApp\obj\Debug\StopWatchApp.csproj.CoreCompileInputs.cache
+C:\Users\lanaa\source\repos\StopWatchApp\StopWatchApp\bin\Debug\StopWatchApp.exe.config
+C:\Users\lanaa\source\repos\StopWatchApp\StopWatchApp\bin\Debug\StopWatchApp.exe
+C:\Users\lanaa\source\repos\StopWatchApp\StopWatchApp\bin\Debug\StopWatchApp.pdb
+C:\Users\lanaa\source\repos\StopWatchApp\StopWatchApp\obj\Debug\StopWatchApp.exe
+C:\Users\lanaa\source\repos\StopWatchApp\StopWatchApp\obj\Debug\StopWatchApp.pdb
